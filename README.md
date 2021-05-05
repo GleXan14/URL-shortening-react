@@ -34,7 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Not yet
+- [Live site here](https://glexan14.github.io/URL-shortening-react/)
+- [My Frontend Mentor solution here](https://www.frontendmentor.io/solutions/a-newbies-solution-react-hooks-and-redux-_JWsEzfiT)
 
 ## My process
 
